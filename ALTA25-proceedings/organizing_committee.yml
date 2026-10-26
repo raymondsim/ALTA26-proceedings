@@ -1,42 +1,54 @@
 - members:
-  - first_name: Jonathan
-    middle_name: K.
-    last_name: Kummerfeld
-    institution: The University of Sydney
+  - first_name: Bahadorreza
+    last_name: Ofoghi
+    institution: Deakin University
   role: General Chair
-  
+
 - members:
-  - first_name: Aditya
-    last_name: Joshi
-    institution: University of New South Wales
-  - first_name: Mark
-    last_name: Dras
-    institution: Macquarie University
+  - first_name: Massimo
+    last_name: Piccardi
+    institution: University of Technology Sydney
+  - first_name: Ming
+    last_name: Liu
+    institution: Deakin University
+  - first_name: Mohammed
+    middle_name: Reda
+    last_name: Bouadjenek
+    institution: Deakin University
   role: Program Chairs
   
 - members:
-  - first_name: Ana Clarissa
-    last_name: Miranda Pena 
-    institution: The University of Sydney
+  - first_name: Zhuang
+    last_name: Liu 
+    institution: RMIT University
+  - first_name: Mong Yuan
+    last_name: Sim
+    institution: Adelaide University
   role: Publication Chair
   
 - members:
-  - first_name: Ngoc Gia Hy
-    last_name: Nguyen 
-    institution: The University of Sydney
+  - first_name: Aymen
+    middle_name: Rayane
+    last_name: Khouas 
+    institution: Deakin University
   role: Technology Chair
   
 - members:
-  - first_name: Yidong
-    last_name: Gan 
-    institution: The University of Sydney
+  - first_name: Fatima
+    last_name: Ansarizadeh 
+    institution: Deakin University
   role: Sponsorship Chair
   
 - members:
-  - first_name: Sebastian
-    last_name: Kobler 
-    institution: The University of Sydney
-  - first_name: Thomas
-    last_name: Elton 
-    institution: The University of Sydney
+  - first_name: Sara
+    last_name: Mirabi 
+    institution: Deakin University
+  - first_name: Saeedeh
+    last_name: Javadi
+    institution: Deakin University
   role: Local Chairs
+
+- members:
+  - first_name: Wei Emma
+    last_name: Zhang
+    institution: Adelaide University

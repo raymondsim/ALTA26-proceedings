@@ -1,14 +1,15 @@
-- tier: Gold
+- tier: Platinum
   logos:
-    - google.png
+    - dst.png
+    - openstream_ai.png
 - tier: Silver
   logos:
+    - google.png
     - mongodb.png
-    - amazon.png
+    - seek.png
 - tier: Bronze
   logos: 
-    - ge.png
-    - unimelb.png
+    - melbourne_uni.png
 - tier: Host sponsors
   logos: 
-    - usyd.png
+    - deakin_university.png
