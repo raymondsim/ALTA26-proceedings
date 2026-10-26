@@ -1,21 +1,23 @@
-book_title: Proceedings of The 23rd Annual Workshop of the Australasian Language Technology Association
-event_name: Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association
+book_title: Proceedings of The 24th Annual Workshop of the Australasian Language Technology Association
+event_name: Proceedings of the 24th Annual Workshop of the Australasian Language Technology Association
 volume_name: main
 cover_subtitle:
-organization: The University of Sydney
-place: Sydney, Australia
+organization: Deakin University
+place: Melbourne, Australia
 logo: alta-logo.png
 anthology_venue_id: ALTA
 isbn: 1834-7037
-start_date: 2025-11-26
-end_date: 2025-11-28
-location: Sydney, Australia
+start_date: 2026-11-30
+end_date: 2026-12-02
+location: Melbourne, Australia
 editors:
-  - first_name: Jonathan
-    middle_name: K.
-    last_name: Kummerfeld
-  - first_name: Aditya
-    last_name: Joshi
-  - first_name: Mark
-    last_name: Dras  
+  - first_name: Bahadorreza
+    last_name: Ofoghi
+  - first_name: Massimo
+    last_name: Piccardi
+  - first_name: Ming
+    last_name: Liu
+  - first_name: Mohammed
+    middle_name: Reda
+    last_name: Bouadjenek
 publisher: Association for Computational Linguistics

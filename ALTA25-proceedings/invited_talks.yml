@@ -1,15 +1,23 @@
-- title: "How can computational linguists contribute to the social good?"
-  speaker_name: Prof. Alistair Knott
-  institution: Victoria University of Wellington
-  abstract_file: knott.tex
-  bio_file: knott_bio.tex
-  date: 2025-11-27 10:00:00
-  location: Lecture Theatre 302, PNR building
+- title: "Exploring the Representation Space of LLMs"
+  speaker_name: Prof. Eduard Hovy
+  institution: University of Melbourne
+  abstract_file: hovy.tex
+  bio_file: hovy_bio.tex
+  # date: 2025-11-27 10:00:00
+  # location: Lecture Theatre 302, PNR building
 
-- title: "How LLMs Change NLP"
-  speaker_name: Prof. Mark Johnson
-  institution: Macquarie University and Oracle
-  abstract_file: johnson.tex
-  bio_file: johnson_bio.tex
-  date: 2025-11-28 14:00:00
-  location: Lecture Theatre 302, PNR building
+- title: "In the post-LLM world, does structured knowledge still have a role in science?"
+  speaker_name: Professor Karin Verspoor
+  institution: RMIT University
+  abstract_file: verspoor.tex
+  bio_file: verspoor_bio.tex
+  # date: 2025-11-28 14:00:00
+  # location: Lecture Theatre 302, PNR building
+
+- title: "AI Challenges: Trustworthy Collaboration, World Discovery, and Long-Horizon Memory"
+  speaker_name: Professor Mohit Bansal
+  institution: UNC Chapel Hill
+  abstract_file: bansal.tex
+  bio_file: bansal_bio.tex
+  # date: 2025-11-28 14:00:00
+  # location: Lecture Theatre 302, PNR building
