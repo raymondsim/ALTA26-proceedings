@@ -1,84 +1,137 @@
 - entries:
-  - first_name: Naomi
-    last_name: Baes 
-    institution: University of Melbourne
+  - first_name: Abderrahmane
+    last_name: Maaradji
+    institution: University of Doha for Science & Technology
+  - first_name: Aditya
+    last_name: Joshi
+    institution: University of New South Wales
+  - first_name: Aditya
+    last_name: Malte
+    institution: NVIDIA
+  - first_name: Andrea
+    middle_name: C.
+    last_name: Schalley
+    institution: Karlstad University
+  - first_name: Aymen
+    middle_name: Rayane
+    last_name: Khouas
+    institution: Deakin University
   - first_name: Daniel
     last_name: Beck
-    institution: Royal Melbourne Institute of Technology
-  - first_name: Dawei
-    last_name: Chen 
+    institution: RMIT University
+  - first_name: Dhruv
+    last_name: Patel
+    institution: Brennan
+  - first_name: Diego
+    last_name: Molla
+    institution: Macquarie University
+  - first_name: Dima
+    last_name: Galat
+    institution: University of Technology Sydney
+  - first_name: Doreen
+    last_name: Osmelak
+    institution: Doreen Osmelak
+  - first_name: Emmanuele
+    last_name: Chersoni
+    institution: Hong Kong Polytechnic University
+  - first_name: Gautam
+    last_name: Kashyap
+    institution: Macquarie University
+  - first_name: Hanna
+    last_name: Suominen
     institution: Australian National University
+  - first_name: Haolan
+    last_name: Zhan
+    institution: University of Melbourne
+  - first_name: Hiyori
+    last_name: Yoshikawa
+    institution: Fujitsu Laboratories
+  - first_name: Hongbin
+    last_name: Na
+    institution: University of Technology Sydney
+  - first_name: Imranul
+    last_name: Ashrafi
+    institution: University of Technology Sydney
+  - first_name: Ingrid
+    last_name: Zukerman
+    institution: Monash University
+  - first_name: Inigo
+    middle_name: Jauregi
+    last_name: Unanue
+    institution: University of Technology Sydney
+  - first_name: Jing
+    last_name: Jiang
+    institution: Australian National University
+  - first_name: Jonathan
+    middle_name: K.
+    last_name: Kummerfeld
+    institution: University of Sydney
+  - first_name: Katy
+    middle_name: Ilonka
+    last_name: Gero
+    institution: University of Sydney
+  - first_name: Kewen
+    last_name: Liao
+    institution: Deakin University
+  - first_name: Lin
+    last_name: Tian
+    institution: University of Technology Sydney
+  - first_name: Mike
+    last_name: Conway
+    institution: University of Melbourne
   - first_name: Ming-Bin
     last_name: Chen
-    institution: University of Melbourne
-  - first_name: Xiang
-    last_name: Dai
-    institution: CSIRO
-  - first_name: Mark
-    last_name: Dras
-    institution: Macquarie University
-  - first_name: Gabriela
-    last_name: Ferraro 
-    institution: Australian National University
-  - first_name: Eduard
-    last_name: Hovy
     institution: University of Melbourne
   - first_name: Nicholas
     middle_name: I-Hsien
     last_name: Kuo
     institution: University of New South Wales
-  - first_name: Inigo
-    middle_name: Jauregi
-    last_name: Unanue
-    institution: University of Technology Sydney
-  - first_name: Antonio
-    middle_name: Jimeno
-    last_name: Yepes
-    institution: Royal Melbourne Institute of Technology
-  - first_name: Jonathan 
-    middle_name: K.
-    last_name: Kummerfeld
-    institution: University of Sydney
+  - first_name: Nisansa
+    last_name: de Silva
+    institution: University of Moratuwa
+  - first_name: Peijuan
+    last_name: Wang
+    institution: Chinese Academy of Meteorological Sciences
+  - first_name: Ramya
+    last_name: Thatikonda
+    institution: Monash University
+  - first_name: Robin
+    last_name: Vujanic
+    institution: MongoDB Research
+  - first_name: Rui
+    last_name: Xing
+    institution: University of Melbourne
+  - first_name: Saeedeh
+    last_name: Javadi
+    institution: RMIT University
+  - first_name: Samiha
+    last_name: Haque
+    institution: RMIT University
   - first_name: Sarvnaz
     last_name: Karimi
+    institution: Monash University
+  - first_name: Stephen
+    last_name: Skalicky
+    institution: Victoria University of Wellington
+  - first_name: Tao
+    last_name: Shi
+    institution: University of Melbourne
+  - first_name: Terrence
+    last_name: Szymanski
+    institution: SEEK
+  - first_name: Tim
+    last_name: Baldwin
+    institution: MBZUAI
+  - first_name: Wei Emma
+    last_name: Zhang
+    institution: Adelaide University
+  - first_name: Xiang
+    last_name: Dai
     institution: CSIRO
-  - first_name: Kemal
-    last_name: Kurniawan
+  - first_name: Xiuzhen
+    last_name: Zhang
+    institution: RMIT University
+  - first_name: Yang
+    last_name: Xiao
     institution: University of Melbourne
-  - first_name: Chunhua
-    last_name: Liu
-    institution: University of Melbourne
-  - first_name: Raphael
-    last_name: Merx
-    institution: University of Melbourne
-  - first_name: Diego
-    last_name: Mollá 
-    institution: Macquarie University
-  - first_name: Massimo
-    last_name: Piccardi 
-    institution: University of Technology Sydney
-  - first_name: Josiah
-    last_name: Poon 
-    institution: University of Sydney
-  - first_name: Anudeex
-    last_name: Shetty
-    institution: University of Melbourne
-  - first_name: Amrita
-    last_name: Singh
-    institution: University of New South Wales
-  - first_name: Aditya
-    last_name: Joshi
-    institution: University of New South Wales
-  - first_name: Dipankar
-    last_name: Srirag
-    institution: University of New South Wales
-  - first_name: Hanna
-    last_name: Suominen
-    institution: Australian National University
-  - first_name: Zheng Wei
-    last_name: Lim
-    institution: University of Melbourne
-  - first_name: Qiongkai
-    last_name: Xu
-    institution: Macquarie University
   role: Reviewers
