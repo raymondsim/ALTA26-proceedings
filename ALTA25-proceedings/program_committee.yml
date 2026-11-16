@@ -1,7 +1,7 @@
 - entries:
   - first_name: Abderrahmane
     last_name: Maaradji
-    institution: University of Doha for Science & Technology
+    institution: University of Doha for Science and Technology
   - first_name: Aditya
     last_name: Joshi
     institution: University of New South Wales
@@ -30,7 +30,7 @@
     institution: University of Technology Sydney
   - first_name: Doreen
     last_name: Osmelak
-    institution: Doreen Osmelak
+    institution: University of Melbourne
   - first_name: Emmanuele
     last_name: Chersoni
     institution: Hong Kong Polytechnic University
@@ -91,13 +91,13 @@
     institution: University of Moratuwa
   - first_name: Peijuan
     last_name: Wang
-    institution: Chinese Academy of Meteorological Sciences
+    institution: Zhejiang Shuren University
   - first_name: Ramya
     last_name: Thatikonda
     institution: Monash University
   - first_name: Robin
     last_name: Vujanic
-    institution: MongoDB Research
+    institution: MongoDB
   - first_name: Rui
     last_name: Xing
     institution: University of Melbourne
